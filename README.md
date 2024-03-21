@@ -38,7 +38,6 @@ This repository contains a Python script for cracking passwords using various te
 
 ### Contributors
 
-- **[Your Name]** - *Initial work* - [GitHub Profile](https://github.com/Bulefrg)
+- **[Bulef43]** - *Initial work* - [GitHub Profile](https://github.com/Bulefrg)
 
-### License
 
